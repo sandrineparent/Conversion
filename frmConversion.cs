@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Conversion
 {
-    public partial class Form1 : Form
+    public partial class frmConversion : Form
     {
-        public Form1()
+        public frmConversion()
         {
             InitializeComponent();
         }
